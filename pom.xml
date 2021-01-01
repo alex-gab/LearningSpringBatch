@@ -17,6 +17,7 @@
         <module>starting-a-job</module>
         <module>stopping-a-job</module>
         <module>scheduling-a-job</module>
+        <module>remotechunking</module>
     </modules>
 
     <properties>
