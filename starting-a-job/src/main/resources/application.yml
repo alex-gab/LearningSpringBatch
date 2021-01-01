@@ -1,0 +1,6 @@
+spring:
+  batch:
+    job:
+      enabled: false
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
