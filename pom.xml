@@ -21,6 +21,9 @@
         <module>launchingViaMessages</module>
         <module>informationalMessages</module>
         <module>remotepartitioning</module>
+        <module>multithreadedstep</module>
+        <module>asyncitemprocessoritemwriter</module>
+        <module>localpartitioning</module>
     </modules>
 
     <properties>
