@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo
+    username: root
+    password: my-secret-pw
+    platform: mysql
+  batch:
+    initialize-schema: always

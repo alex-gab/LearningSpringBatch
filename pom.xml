@@ -20,6 +20,7 @@
         <module>remotechunking</module>
         <module>launchingViaMessages</module>
         <module>informationalMessages</module>
+        <module>remotepartitioning</module>
     </modules>
 
     <properties>
