@@ -19,6 +19,7 @@
         <module>scheduling-a-job</module>
         <module>remotechunking</module>
         <module>launchingViaMessages</module>
+        <module>informationalMessages</module>
     </modules>
 
     <properties>
